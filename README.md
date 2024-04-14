@@ -12,7 +12,7 @@ yoxxa@arch:~$ neofetch
  :@@@@@@@@@@@Q                                R@@@@@@@@@@@"    Packages: python3, gcc, nasm
 _g@@@@@@@@@@2-                                `M@@@@@@@@@@0    Shell: /bin/zsh
 a@@@@@@@@@@2                                    v@@@@@@@@@@;   Editors: neovim, vscodium
-#@@@@@@@@@@_                                     @@@@@@@@@@y   Crontab: code, security, infra
+#@@@@@@@@@@_                                     @@@@@@@@@@y   Crontab: code, security, infra     
 @@@@@@@@@@@.                                     @@@@@@@@@@%   
 #@@@@@@@@@@r                                    :@@@@@@@@@@s   contact information
 W@@@@@@@@@@Q`                                  _0@@@@@@@@@@*   -------------------
